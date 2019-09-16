@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BUF_SIZE	utility.h	34;"	d
+CAUTION	utility.h	43;"	d
+EPOLL_SIZE	utility.h	31;"	d
+EXIT	utility.h	41;"	d
+SERVER_IP	utility.h	25;"	d
+SERVER_MESSAGE	utility.h	38;"	d
+SERVER_PORT	utility.h	28;"	d
+SERVER_WELCOME	utility.h	36;"	d
+UTILITY_H_INCLUDED	utility.h	2;"	d
+addfd	utility.h	/^void addfd( int epollfd, int fd, bool enable_et )$/;"	f
+main	gobang.cpp	/^int main(int argc, char *argv[])$/;"	f
+sendBroadcastmessage	utility.h	/^int sendBroadcastmessage(int clientfd)$/;"	f
+setnonblocking	utility.h	/^int setnonblocking(int sockfd)$/;"	f
